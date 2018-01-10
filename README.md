@@ -1,3 +1,7 @@
+Run `npm install` to install all the dependencies
+Run `npm start` to see the project at http://localhost:3000/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
